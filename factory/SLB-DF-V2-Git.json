@@ -1,0 +1,9 @@
+{
+	"name": "SLB-DF-V2-Git",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a263bd9-e6f0-4796-a187-be87a1b511ec",
+		"tenantId": "cb3e2b63-0dad-4241-af4b-18ac60c1fc3a"
+	}
+}
