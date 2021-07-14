@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "SLB-DF-V2-Git"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
